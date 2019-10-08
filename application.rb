@@ -1,4 +1,4 @@
-earn
+
 class Application
 
   def call(env)
